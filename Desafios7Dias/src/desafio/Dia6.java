@@ -43,7 +43,7 @@ public class Dia6 {
 		
 			System.out.println("vetor final!!");
 			
-			 for (int i = 0; i < 10; i++) {
+			 for (int i = 0; i < vetor.length; i++) {
 		               
 		                System.out.println(vetor[i]);
 		            }
